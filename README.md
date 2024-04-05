@@ -2,7 +2,7 @@
 
 25분간 집중하고 짧은 휴식을 가져보세요!
 
-<img src="data/preview.gif" width=220>
+<img src="data/preview copy.gif" width=300>
 
 # 요약
 
